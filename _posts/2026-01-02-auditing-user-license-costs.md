@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Identifying User's Last Login Dates via FetchXML 📊"
 date: 2026-01-02
 categories: [Dataverse, Audit]
