@@ -5,7 +5,7 @@ description: >-
   14 years of expertise from CRM 2011 to modern Cloud engineering.
 
 # Technical Routing
-baseurl: "/devnotes" # Matches your repository name for correct CSS loading
+baseurl: "/blog" # Matches your repository name for correct CSS loading
 url: "https://abbykong.github.io" 
 permalink: /:title/
 
