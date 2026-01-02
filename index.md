@@ -1,22 +1,13 @@
 ---
 title: Abby Kong's Dev Notes on Power Platform
 ---
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      <span> — {{ post.date | date_to_string }}</span>
-    </li>
-  {% endfor %}
-</ul>
-
 
 <div class="timeline-container">
   {% for post in site.posts %}
   <div class="timeline-item">
     <div class="timeline-dot"></div>
     <div class="timeline-content">
-      <span class="post-date">Updated {{ post.date | date: "%b %d, %Y" }}</span>
+      <span class="post-date">Posted {{ post.date | date: "%b %d, %Y" }}</span>
       <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
       <p>{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
     </div>
