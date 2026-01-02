@@ -1,0 +1,26 @@
+---
+---
+// This is the specific directive for the Slate Remote Theme
+@import "jekyll-theme-slate";
+
+section.page-header {
+  background-color: #004a87 !important;
+  background-image: linear-gradient(120deg, #004a87, #00205b) !important;
+  color: #ffffff !important;
+  padding: 3rem 2rem !important;
+}
+
+section.main-content {
+  background: #ffffff;
+  color: #2e2e2e;
+  max-width: 64rem;
+  padding: 2rem;
+  margin: 0 auto;
+}
+
+pre, code {
+  background-color: #f8f8f8;
+  border: 1px solid #e1e1e1;
+  border-radius: 4px;
+  font-family: "Courier New", Courier, monospace;
+}

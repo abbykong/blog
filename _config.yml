@@ -1,0 +1,30 @@
+# Site Settings
+title: "Abby Kong's Dev Notes on Power Platform"
+description: >- 
+  Power Pages & Power Platform Architecture. 
+  14 years of expertise from CRM 2011 to modern Cloud engineering.
+
+# Technical Routing
+baseurl: "/devnotes" # Matches your repository name for correct CSS loading
+url: "https://abbykong.github.io" 
+permalink: /:title/
+
+# Professional Identity (Privacy Protected)
+author:
+  name: "Abby Kong"
+  github_username: "abbykong"
+
+# Theme Engine
+remote_theme: pages-themes/slate@v0.2.0
+
+# Build Settings
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+
+sass:
+  style: compressed
+
+show_downloads: false
