@@ -1,5 +1,5 @@
 ---
-title: Abby Kong's Dev Notes on Power Platform
+title: Dev Notes on Power Platform
 ---
 
 <div class="timeline-container">
@@ -14,5 +14,3 @@ title: Abby Kong's Dev Notes on Power Platform
   </div>
   {% endfor %}
 </div>
-
-This blog site is generated from Git Hub Pages
