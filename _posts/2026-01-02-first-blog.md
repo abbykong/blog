@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Abby's Kong Dev Notes"
+title: "Welcome to Abby's Dev Notes on Power Platform"
 date: 2026-01-02
 categories: [Introduction]
 ---
