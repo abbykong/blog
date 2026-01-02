@@ -1,9 +1,7 @@
 # Site Settings
-title: "Abby Kong's Dev Notes on Power Platform"
+title: "Abby's Dev Notes on Power Platform"
 description: >- 
-  Power Pages & Power Platform Architecture. 
-  14 years of expertise from CRM 2011 to modern Cloud engineering.
-
+  A collection of technical notes, tips & insights, and 'gotchas' from the Power Platform. Shared for the community and my future self.
 # Technical Routing
 baseurl: "/blog" # Matches your repository name for correct CSS loading
 url: "https://abbykong.github.io" 
